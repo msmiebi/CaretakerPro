@@ -1,0 +1,11 @@
+C:\Projects\CaretakerPro\CaretakerPro.Shared\bin\Debug\net8.0\CaretakerPro.Shared.deps.json
+C:\Projects\CaretakerPro\CaretakerPro.Shared\bin\Debug\net8.0\CaretakerPro.Shared.dll
+C:\Projects\CaretakerPro\CaretakerPro.Shared\bin\Debug\net8.0\CaretakerPro.Shared.pdb
+C:\Projects\CaretakerPro\CaretakerPro.Shared\obj\Debug\net8.0\CaretakerPro.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CaretakerPro\CaretakerPro.Shared\obj\Debug\net8.0\CaretakerPro.Shared.AssemblyInfoInputs.cache
+C:\Projects\CaretakerPro\CaretakerPro.Shared\obj\Debug\net8.0\CaretakerPro.Shared.AssemblyInfo.cs
+C:\Projects\CaretakerPro\CaretakerPro.Shared\obj\Debug\net8.0\CaretakerPro.Shared.csproj.CoreCompileInputs.cache
+C:\Projects\CaretakerPro\CaretakerPro.Shared\obj\Debug\net8.0\CaretakerPro.Shared.dll
+C:\Projects\CaretakerPro\CaretakerPro.Shared\obj\Debug\net8.0\refint\CaretakerPro.Shared.dll
+C:\Projects\CaretakerPro\CaretakerPro.Shared\obj\Debug\net8.0\CaretakerPro.Shared.pdb
+C:\Projects\CaretakerPro\CaretakerPro.Shared\obj\Debug\net8.0\ref\CaretakerPro.Shared.dll

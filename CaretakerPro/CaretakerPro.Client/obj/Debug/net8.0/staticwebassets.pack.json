@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projects\\CaretakerPro\\CaretakerPro\\CaretakerPro.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Projects\\CaretakerPro\\CaretakerPro\\CaretakerPro.Client\\obj\\Debug\\net8.0\\compressed\\htude6als5.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Projects\\CaretakerPro\\CaretakerPro\\CaretakerPro.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Projects\\CaretakerPro\\CaretakerPro\\CaretakerPro.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CaretakerPro.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CaretakerPro.Client.props",
+      "PackagePath": "build\\CaretakerPro.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CaretakerPro.Client.props",
+      "PackagePath": "buildMultiTargeting\\CaretakerPro.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CaretakerPro.Client.props",
+      "PackagePath": "buildTransitive\\CaretakerPro.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
