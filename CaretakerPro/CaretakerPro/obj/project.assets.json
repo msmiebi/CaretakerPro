@@ -1926,6 +1926,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "CaretakerPro.Shared": "1.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "8.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly.Authentication": "8.0.0"
         },
@@ -1934,6 +1935,16 @@
         },
         "runtime": {
           "bin/placeholder/CaretakerPro.Client.dll": {}
+        }
+      },
+      "CaretakerPro.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CaretakerPro.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CaretakerPro.Shared.dll": {}
         }
       }
     }
@@ -5009,11 +5020,17 @@
       "type": "project",
       "path": "../CaretakerPro.Client/CaretakerPro.Client.csproj",
       "msbuildProject": "../CaretakerPro.Client/CaretakerPro.Client.csproj"
+    },
+    "CaretakerPro.Shared/1.0.0": {
+      "type": "project",
+      "path": "../../CaretakerPro.Shared/CaretakerPro.Shared.csproj",
+      "msbuildProject": "../../CaretakerPro.Shared/CaretakerPro.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "CaretakerPro.Client >= 1.0.0",
+      "CaretakerPro.Shared >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly.Server >= 8.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 8.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.0",
@@ -5057,6 +5074,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Projects\\CaretakerPro\\CaretakerPro.Shared\\CaretakerPro.Shared.csproj": {
+              "projectPath": "C:\\Projects\\CaretakerPro\\CaretakerPro.Shared\\CaretakerPro.Shared.csproj"
+            },
             "C:\\Projects\\CaretakerPro\\CaretakerPro\\CaretakerPro.Client\\CaretakerPro.Client.csproj": {
               "projectPath": "C:\\Projects\\CaretakerPro\\CaretakerPro\\CaretakerPro.Client\\CaretakerPro.Client.csproj"
             }

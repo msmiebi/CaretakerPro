@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaretakerPro", "CaretakerPro\CaretakerPro\CaretakerPro.csproj", "{0764F05D-2099-4E32-B9C0-A2E3BA26624A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaretakerPro", "CaretakerPro\CaretakerPro\CaretakerPro.csproj", "{0764F05D-2099-4E32-B9C0-A2E3BA26624A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaretakerPro.Client", "CaretakerPro\CaretakerPro.Client\CaretakerPro.Client.csproj", "{16D943D1-6BD1-447B-A0BA-DCB4590D3509}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaretakerPro.Client", "CaretakerPro\CaretakerPro.Client\CaretakerPro.Client.csproj", "{16D943D1-6BD1-447B-A0BA-DCB4590D3509}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaretakerPro.Shared", "CaretakerPro.Shared\CaretakerPro.Shared.csproj", "{05F537F2-DD96-4933-AAEB-B6F3A0DC7527}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaretakerPro.Shared", "CaretakerPro.Shared\CaretakerPro.Shared.csproj", "{05F537F2-DD96-4933-AAEB-B6F3A0DC7527}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaretakerPro.Test", "CaretakerPro.Test\CaretakerPro.Test.csproj", "{4E1060CF-61B9-4826-B4B8-5B4840C06BC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaretakerPro.Test", "CaretakerPro.Test\CaretakerPro.Test.csproj", "{4E1060CF-61B9-4826-B4B8-5B4840C06BC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
